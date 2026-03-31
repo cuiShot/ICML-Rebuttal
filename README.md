@@ -1,7 +1,0 @@
-> **Supplementary Materials for Rebuttal**
->
->   * **[A\_Extended\_Strategy\_Bases\_U\_and\_C.pdf](https://www.google.com/search?q=./...)**: Details the mathematical definitions and design motivations for the Uncertainty (U) and Calibration (C) bases. (References: Reviewer Q1oi-R2)
->   * **[B\_Details\_of\_30\_Benchmark\_Datasets.pdf](https://www.google.com/search?q=./...)**: Provides a comprehensive summary of the 30 public datasets evaluated in our main experiments. (References: Reviewer Q1oi-R4)
->   * **[C\_Prompt\_Templates\_and\_Variations.pdf](https://www.google.com/search?q=./...)**: Contains the full text of the prompt variants (`simplified`, `detailed`, `no_examples`, `improved`). (References: Reviewer ALzP-R2)
->   * **[D\_Experiments\_on\_Unseen\_Datasets.pdf](https://www.google.com/search?q=./...)**: Reports dataset statistics and full empirical results on the three new public datasets and one private dataset. (References: Reviewer ALzP-R3)
->   * **[E\_Fixed\_Base\_Model\_Pool\_Configurations.pdf](https://www.google.com/search?q=./...)**: Lists the specific algorithms and hyperparameter configurations used in the fixed base model pool experiments. (References: Reviewer njvp-R3)
